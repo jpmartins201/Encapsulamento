@@ -16,4 +16,6 @@ public class Acesso {
 	}
 
 	// Esse código está na branch "branch_exemplo"
+
+	// E agora eu faço mais alterações que eu como programador decidi que eram necessárias ao código
 }
