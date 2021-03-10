@@ -1,9 +1,9 @@
 package br.encapsulamento;
 
 public class Acesso {
-	int a; //acesso padrão
+	int a; //acesso padrï¿½o
 	
-	public int b; // acesso público
+	public int b; // acesso pï¿½blico
 	
 	private int c; // acesso privado
 	
@@ -14,4 +14,6 @@ public class Acesso {
 	public void setC(int qualquer) {
 		this.c = qualquer;
 	}
+
+	// Esse cÃ³digo estÃ¡ na branch "branch_exemplo"
 }
